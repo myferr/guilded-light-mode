@@ -1459,3 +1459,12 @@ My GitHub: https://github.com/myferr/
 .ChatV2MessageHeader-timestamp {
     color: #373c46;
 }
+#app .SkeletonPlaceholder-container, .ChatV2MessageHeader-info, .GuildedText-container, .UserName-text, .ChatV2MessageHeader-name-text, .SkeletonPlaceholder-container, .ChatV2MessageHeader-info {
+    color: #373c46;
+}
+#app .CodespanRendererV2-container {
+    color:white;
+}
+#app .LinkRendererV2-link {
+    color:#c8af49;
+}
