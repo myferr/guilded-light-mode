@@ -12,3 +12,11 @@ First install [a release of Guilded Light Mode](https://github.com/myferr/guilde
 > Make sure you have ReGuilded injected in before you open Guilded.
 
 After you've opened Guilded go to `Settings > Themes > Import` and click the big "Import" button and go to the extracted `guilded-light-mode` folder and select the `reguilded` folder after that click "Import" and go back to the `Installed` tab and enable the theme under the name of "Guilded Light Mode"
+
+# Contributing 💛
+To contribute follow these steps:
+* Run `git clone https://github.com/myferr/guilded-light-mode` or clone the repository onto your computer with another method
+* Edit, remove or add code to any file you would like
+* Save it and create a pull request
+
+If your **PR** (aka. pull request) is merged/accepted, thanks for helping out!
