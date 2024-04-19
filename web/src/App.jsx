@@ -24,7 +24,7 @@ function App() {
           <h1>Guilded Light Mode.</h1>
           <img src={sparkles} />
           <div className='badges-container bottom-spacing'>
-            <a href="https://github.com/myferr/guilded-light-mode/" target='_blank'>
+            <a href="https://github.com/myferr/guilded-light-mode/releases/latest/" target='_blank'>
               <img src={releaseBadge} className='badge' />
             </a>
             <a href="https://github.com/myferr/" target='_blank'>
