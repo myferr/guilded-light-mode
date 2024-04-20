@@ -3,6 +3,8 @@
 
 ![](/screenshots/Screenshot1.png)
 
+![](https://img.shields.io/badge/release-1.0.5-blue) ![](https://img.shields.io/badge/developer-myfer-green) ![](https://img.shields.io/badge/built%20with-css-f39f37)
+
 Guilded light mode is a simple light mode for Guilded developed by Myfer.
 
 # Installation 📥
