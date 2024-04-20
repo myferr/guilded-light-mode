@@ -1,6 +1,6 @@
 # Guilded Light Mode
 ###### This project is under the MIT License. [Learn more](LICENSE)
-
+###### This theme is also on ReGuilded. [Learn more](https://www.guilded.gg/ReGuilded/groups/RdK6o7jD/channels/d9b8d0c4-c213-4e65-b82b-c4a81facba79/forums/1088706986)
 ![](/screenshots/Screenshot1.png)
 
 ![](https://img.shields.io/badge/release-1.0.5-blue) ![](https://img.shields.io/badge/developer-myfer-green) ![](https://img.shields.io/badge/built%20with-css-f39f37)
