@@ -21,4 +21,4 @@ To contribute follow these steps:
 * Edit, remove or add code to any file you would like
 * Save it and create a pull request
 
-If your **PR** (aka. pull request) is merged/accepted, thanks for helping out!
+If your **PR** (aka. pull request) is merged/accepted, thanks for helping out! Also if you include your Guilded username in your **PR** (aka. pull request) you will receive a "Contributer" role in [the Guilded Light guilded community server.](https://guilded.gg/Guilded-Light)
