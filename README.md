@@ -8,13 +8,21 @@
 
 **Guilded light mode** is a simple light mode for Guilded developed by Myfer.
 
-# Installation 📥
+# Installation 📥 
+
+### Reguilded
 First install [a release of Guilded Light Mode](https://github.com/myferr/guilded-light-mode/releases/latest) after that extract the `guilded-light-mode.zip` file, then open Guilded
 
-> [!IMPORTANT]
-> Make sure you have ReGuilded injected in before you open Guilded.
+> [!CAUTION]
+> ReGuilded is now deprecated, please use the web installation method.
 
 After you've opened Guilded go to `Settings > Themes > Import` and click the big "Import" button and go to the extracted `guilded-light-mode` folder and select the `reguilded` folder after that click "Import" and go back to the `Installed` tab and enable the theme under the name of "Guilded Light Mode"
+
+### Web installation. (via. Stylus)
+
+* Get the [Stylus browser extension](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+* Install [Guilded Light Mode](https://userstyles.world/style/15890/guilded-light-mode)
+
 
 # Contributing 💛
 To contribute follow these steps:
